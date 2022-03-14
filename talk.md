@@ -213,3 +213,7 @@ DEMO
 ![bg w:1000 center](./assets/timeline-layers.png)
 
 ---
+
+<!-- _class: lead -->
+
+# FIN.
